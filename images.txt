@@ -1,1 +1,1 @@
-paperless-ngx/paperless-ngx:latest
+paperless-ngx
