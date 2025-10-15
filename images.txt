@@ -1,1 +1,1 @@
-apache/tika
+gotenberg/gotenberg:8.22
