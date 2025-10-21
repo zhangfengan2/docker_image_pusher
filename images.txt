@@ -1,2 +1,2 @@
 library/redis:8
- --platform=linux/arm64
+--platform linux/amd64,linux/arm64
