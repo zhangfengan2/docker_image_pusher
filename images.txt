@@ -1,2 +1,1 @@
-library/postgres:17
---platform linux/amd64,linux/arm64
+arm64v8/redis
