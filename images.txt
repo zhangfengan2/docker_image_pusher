@@ -1,1 +1,1 @@
-arm64v8/redis
+arm64v8/redis:8
